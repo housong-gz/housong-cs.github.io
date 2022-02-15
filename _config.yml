@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : "https://profiles.impactstory.org/u/0000-0002-9246-0367"
+#  impactstory      : "https://profiles.impactstory.org/u/0000-0002-9246-0367"
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/0000-0002-9246-0367"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : "17277322/song-hou"
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
