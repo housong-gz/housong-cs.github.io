@@ -6,8 +6,8 @@ main:
   - title: "讲座"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "随笔"
+    url: /随笔/    
     
   - title: "Portfolio"
     url: /portfolio/
